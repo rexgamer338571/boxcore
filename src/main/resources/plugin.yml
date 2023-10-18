@@ -1,0 +1,4 @@
+name: NGBoxCore
+main: dev.ng5m.ngboxcore.MainPlugin
+version: 1.0
+api-version: '1.13'
